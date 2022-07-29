@@ -67,4 +67,4 @@ Dominant Eye Color:  Green
 6. [EYE COLOR RANGE](https://github.com/jeffreyolchovy/whatismyeyecolor/blob/master/library/src/main/scala)
 
 
-### [Sample outout1]()
+### [Sample outout1](https://github.com/mridulshinghal123/Eye-Color-detector/blob/main/Sample1.png)
