@@ -69,3 +69,4 @@ Dominant Eye Color:  Green
 
 ### Sample
 1. [Sample output1](https://github.com/mridulshinghal123/Eye-Color-detector/blob/main/Sample1.png)
+2. [Sample output 2](https://github.com/mridulshinghal123/Eye-Color-detector/blob/main/Sample%202.jpg)
