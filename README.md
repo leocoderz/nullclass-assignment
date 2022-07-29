@@ -8,8 +8,6 @@ Simple Eye Color Detector using Machine Learning
 4. Click on detcet button
 5. View results
 
-# Eye Color Detection
-
 ## Installation 
 #### Clone the project and install requirements
     $ git clone https://github.com/ghimiredhikura/Eye-Color-Detection
